@@ -1,0 +1,19 @@
+# Session — YYYY-MM-DD
+
+## Summary
+*(one line)*
+
+## What Happened
+-
+
+## Decisions Made
+-
+
+## What Claude Learned
+-
+
+## Research Done
+*(link to any new files in 02-Research/)*
+
+## Next Steps for Rachel
+1.
