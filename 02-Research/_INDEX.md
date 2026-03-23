@@ -15,7 +15,7 @@
 *(files added as Claude researches these)*
 
 ## YouTube AI Automation
-*Deep research session — 2026-03-22 — 9 files*
+*Deep research session — 2026-03-22 — 9 files + niche deep-dives*
 
 | File | Topic | Date |
 |------|-------|------|
@@ -28,6 +28,9 @@
 | [07-Case-Studies.md](YouTube-AI-Automation/07-Case-Studies.md) | 12 real channel case studies with revenue data and success factors | 2026-03-22 |
 | [08-Competition-Analysis.md](YouTube-AI-Automation/08-Competition-Analysis.md) | Saturated niches to avoid, untapped opportunities, geographic markets | 2026-03-22 |
 | [09-STUDIO-App-Research.md](YouTube-AI-Automation/09-STUDIO-App-Research.md) | SaaS tool market gaps, feature wishlist, pricing, technical architecture | 2026-03-22 |
+| [10-Roblox-Niche-Deep-Research.md](YouTube-AI-Automation/10-Roblox-Niche-Deep-Research.md) | Roblox niche deep-dive: CPM, channels, content formats, revenue | 2026-03-22 |
+| [11-Mesopotamia-Niche-Deep-Research.md](YouTube-AI-Automation/11-Mesopotamia-Niche-Deep-Research.md) | Mesopotamia niche deep-dive: channels, topics, automation, revenue | 2026-03-22 |
+| [12-Indus-Valley-Niche-Deep-Research.md](YouTube-AI-Automation/12-Indus-Valley-Niche-Deep-Research.md) | Indus Valley/Harappan niche: dual audience, $1M script prize hook, topics, revenue | 2026-03-23 |
 
 ## Web & Development
 *(files added as Claude researches these)*
