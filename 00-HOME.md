@@ -5,7 +5,7 @@
 
 **Vault:** `C:\Users\Rachel\Desktop\JERRY-MEMORY`
 **GitHub:** https://github.com/mayson208/jerry-memory
-**Last updated:** 2026-03-23 18:53
+**Last updated:** 2026-03-23 18:58
 
 ---
 
@@ -41,6 +41,13 @@
 | Roblox Gaming | ⭐⭐⭐ 8/10 | $2–4 (⚠️ MFK risk) | Challenge arcs, "I survived" format | [[02-Research/YouTube-AI-Automation/10-Roblox-Niche-Deep-Research\|Roblox Deep Dive]] |
 | Ancient Mesopotamia | ⭐⭐⭐⭐ 8.5/10 | $10–25 | First mover — no dominant channel | [[02-Research/YouTube-AI-Automation/11-Mesopotamia-Niche-Deep-Research\|Mesopotamia Deep Dive]] |
 | Indus Valley Civilization | ⭐⭐⭐⭐⭐ 9/10 | $4–15 blended | $1M undeciphered script prize hook RIGHT NOW | [[02-Research/YouTube-AI-Automation/12-Indus-Valley-Niche-Deep-Research\|Indus Valley Deep Dive]] |
+
+### Ancient History Content Strategy (NEW — 2026-03-23)
+| File | What's In It |
+|------|-------------|
+| [[02-Research/YouTube-AI-Automation/History-Video-Ideas\|History Video Ideas]] | 40+ video ideas ranked by potential — titles, hooks, why each works |
+| [[02-Research/YouTube-AI-Automation/Trending-History-Topics\|Trending History Topics]] | What's viral NOW on TikTok/Reddit/YouTube — active news hooks, trending formats |
+| [[02-Research/YouTube-AI-Automation/Competitor-Analysis\|Competitor Analysis (History)]] | Top ancient history channels — subs, views, best videos, gaps to exploit |
 
 ---
 
