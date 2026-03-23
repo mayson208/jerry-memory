@@ -176,8 +176,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "19ec93ae8b2dbd16",
+  "active": "5e6be50e54591db4",
   "lastOpenFiles": [
+    "06-Sessions/2026-03-22.md.tmp.20020.1774239350294",
+    "01-Projects/YouTube-AI-Studio.md",
     "06-Sessions/2026-03-22.md.tmp.20020.1774237517918",
     "02-Research/YouTube-AI-Automation/10-Roblox-Niche-Deep-Research.md",
     "00-HOME.md.tmp.20020.1774208862227",
@@ -198,7 +200,6 @@
     "02-Research/YouTube-AI-Automation/01-Overview.md",
     "02-Research/YouTube-AI-Automation",
     "memory_saver.py",
-    "01-Projects/YouTube-AI-Studio.md",
     "01-Projects/JERRY.md"
   ]
 }
