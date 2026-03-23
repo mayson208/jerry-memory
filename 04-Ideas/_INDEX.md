@@ -1,7 +1,8 @@
 # Ideas & Future Plans
 
-| Idea | Status | Notes |
-|------|--------|-------|
-| [[Discord-Bot]] | 💡 Future idea | Auto-respond when specific person messages |
-| [[Jerry-Voice-Clone]] | 🔜 Soon | Clone Jerry's voice for JERRY bot |
-| YouTube AI Studio | 🔵 Queued | See [[../01-Projects/YouTube-AI-Studio]] |
+| Idea | Status | Priority | Notes |
+|------|--------|----------|-------|
+| [[Jerry-Voice-Clone\|Jerry Voice Clone]] | 🔜 Next up | HIGH | Record 2–3 min of Jerry's voice → ElevenLabs → update `.env` |
+| Ancient History YouTube Channel | 💡 Consider | HIGH | Indus Valley or Mesopotamia — both have zero dominant channel |
+| [[Discord-Bot\|Discord Bot]] | 💡 Someday | LOW | Auto-respond when specific person messages — Claude API powered |
+| YouTube AI Studio SaaS | 🔵 Queued | MEDIUM | App is built — needs niche decision + YouTube API creds |

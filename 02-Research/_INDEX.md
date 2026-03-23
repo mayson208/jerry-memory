@@ -1,52 +1,46 @@
 # Research Index
 
-> Everything Claude has researched and learned lives here.
-> Each topic gets its own file. Browse by category below.
+> Everything Claude has researched lives here. Saved permanently — never lost.
 
 ---
 
-## AI & APIs
-*(files added as Claude researches these)*
+## YouTube AI Automation — Foundation (9 files)
 
-## Tools & Libraries
-*(files added as Claude researches these)*
+*Researched 2026-03-22 — comprehensive deep dive into the full space*
 
-## Business & SaaS
-*(files added as Claude researches these)*
-
-## YouTube AI Automation
-*Deep research session — 2026-03-22 — 9 files + niche deep-dives*
-
-| File | Topic | Date |
-|------|-------|------|
-| [01-Overview.md](YouTube-AI-Automation/01-Overview.md) | Full pipeline overview, how it works, earnings potential, pros/cons | 2026-03-22 |
-| [02-Niche-Research.md](YouTube-AI-Automation/02-Niche-Research.md) | 11 niches with CPM rates, competition, demographics, examples | 2026-03-22 |
-| [03-Monetization.md](YouTube-AI-Automation/03-Monetization.md) | YPP requirements, CPM ranked table, income cases, alt revenue streams | 2026-03-22 |
-| [04-AI-Tools.md](YouTube-AI-Automation/04-AI-Tools.md) | Full tool comparison: scripting, TTS, thumbnails, video, stock, SEO | 2026-03-22 |
-| [05-SEO-and-Growth.md](YouTube-AI-Automation/05-SEO-and-Growth.md) | YouTube algorithm 2025/2026, title/thumbnail formulas, Shorts strategy | 2026-03-22 |
-| [06-Legal-and-Policy.md](YouTube-AI-Automation/06-Legal-and-Policy.md) | YouTube AI policy, disclosure rules, voice cloning law, copyright | 2026-03-22 |
-| [07-Case-Studies.md](YouTube-AI-Automation/07-Case-Studies.md) | 12 real channel case studies with revenue data and success factors | 2026-03-22 |
-| [08-Competition-Analysis.md](YouTube-AI-Automation/08-Competition-Analysis.md) | Saturated niches to avoid, untapped opportunities, geographic markets | 2026-03-22 |
-| [09-STUDIO-App-Research.md](YouTube-AI-Automation/09-STUDIO-App-Research.md) | SaaS tool market gaps, feature wishlist, pricing, technical architecture | 2026-03-22 |
-| [10-Roblox-Niche-Deep-Research.md](YouTube-AI-Automation/10-Roblox-Niche-Deep-Research.md) | Roblox niche deep-dive: CPM, channels, content formats, revenue | 2026-03-22 |
-| [11-Mesopotamia-Niche-Deep-Research.md](YouTube-AI-Automation/11-Mesopotamia-Niche-Deep-Research.md) | Mesopotamia niche deep-dive: channels, topics, automation, revenue | 2026-03-22 |
-| [12-Indus-Valley-Niche-Deep-Research.md](YouTube-AI-Automation/12-Indus-Valley-Niche-Deep-Research.md) | Indus Valley/Harappan niche: dual audience, $1M script prize hook, topics, revenue | 2026-03-23 |
-
-## Web & Development
-*(files added as Claude researches these)*
-
-## Other
-*(files added as Claude researches these)*
+| File | What's In It |
+|------|-------------|
+| [[YouTube-AI-Automation/01-Overview\|01 · Pipeline Overview]] | Stages 1–8, AI agent changes 2025, scaling patterns, realistic earnings |
+| [[YouTube-AI-Automation/02-Niche-Research\|02 · Niche Overview]] | 11 niches with CPM/RPM, competition, demographics, faceless viability ranking |
+| [[YouTube-AI-Automation/03-Monetization\|03 · Monetization]] | YPP requirements, CPM tiers, revenue timelines, case examples |
+| [[YouTube-AI-Automation/04-AI-Tools\|04 · AI Tools]] | Claude vs ChatGPT, ElevenLabs vs Murf, DALL-E vs Midjourney — full comparison |
+| [[YouTube-AI-Automation/05-SEO-and-Growth\|05 · SEO & Growth]] | YouTube algorithm 2025/26, title/thumbnail formulas, Shorts strategy |
+| [[YouTube-AI-Automation/06-Legal-and-Policy\|06 · Legal & Policy]] | AI disclosure rules, voice cloning law, copyright, YouTube AI content policy |
+| [[YouTube-AI-Automation/07-Case-Studies\|07 · Case Studies]] | 12 real channels with revenue data (Infographics Show, WatchMojo, Bright Side, etc.) |
+| [[YouTube-AI-Automation/08-Competition-Analysis\|08 · Competition Analysis]] | Saturated niches to avoid, high-opportunity gaps, geographic markets |
+| [[YouTube-AI-Automation/09-STUDIO-App-Research\|09 · STUDIO SaaS Research]] | SaaS tool market, gaps, feature wishlist, pricing strategy, technical architecture |
 
 ---
 
-## How Research Gets Added
+## Niche Deep Dives
 
-When Rachel asks Claude to research something, Claude:
-1. Researches the topic thoroughly
-2. Creates a new file here: `02-Research/Topic-Name.md`
-3. Adds it to this index with category and date
-4. Updates `00-HOME.md` research table
-5. Commits and pushes to GitHub
+*Full research reports on specific niches — audience, CPM, viral topics, automation viability, revenue*
 
-*All research is permanent — Claude never forgets what it has learned.*
+| Niche | Rating | CPM | Key Advantage | Date | File |
+|-------|--------|-----|---------------|------|------|
+| Roblox Gaming | 8/10 | $2–4 ⚠️ | High youth demand; challenge format | 2026-03-22 | [[YouTube-AI-Automation/10-Roblox-Niche-Deep-Research\|Roblox]] |
+| Ancient Mesopotamia | 8.5/10 | $10–25 | First-mover; no dominant channel exists | 2026-03-22 | [[YouTube-AI-Automation/11-Mesopotamia-Niche-Deep-Research\|Mesopotamia]] |
+| Indus Valley / Harappan | 9/10 | $4–15 | Live news hook + dual audience (diaspora + Western) | 2026-03-23 | [[YouTube-AI-Automation/12-Indus-Valley-Niche-Deep-Research\|Indus Valley]] |
+
+**Best niche to start with:** Indus Valley — $1M script prize is a live CNN/Smithsonian trending hook right now.
+
+---
+
+## Coming Soon
+
+*(Add new research files here as Claude researches more topics)*
+
+- Ancient Egypt niche deep dive
+- Roman Empire niche deep dive
+- Finance / Investing niche deep dive
+- True Crime niche deep dive
