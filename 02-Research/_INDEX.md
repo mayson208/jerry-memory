@@ -48,6 +48,18 @@
 
 ---
 
+## RelaxHistoryAI Channel Research
+
+*Deep dive on the RelaxHistoryAI channel and the AI history Shorts ecosystem*
+*Researched 2026-03-24*
+
+| File | What's In It |
+|------|-------------|
+| [[relax_history_ai_analysis\|RelaxHistoryAI Channel Analysis]] | Channel overview, confirmed video series, topic patterns, visual style, viewer reactions, comparable channels, production observations |
+| [[history_shorts_style_guide\|History Shorts Style Guide]] | Full practical style guide: script structure, narration, visuals, color grade, music, captions, topic selection, what separates quality from generic AI history content |
+
+---
+
 ## Coming Soon
 
 *(Add new research files here as Claude researches more topics)*
