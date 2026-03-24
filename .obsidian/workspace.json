@@ -11,10 +11,14 @@
             "id": "5e6be50e54591db4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "02-Research/viral_shorts_analysis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "viral_shorts_analysis"
             }
           }
         ]
@@ -179,6 +183,10 @@
   },
   "active": "5e6be50e54591db4",
   "lastOpenFiles": [
+    "02-Research/_INDEX.md.tmp.18816.1774336660521",
+    "02-Research/viral_shorts_top10.md",
+    "02-Research/viral_shorts_analysis.md",
+    "02-Research/viral_shorts_analysis.md.tmp.18816.1774336599563",
     "02-Research/YouTube-AI-Automation/Gold-Rush-Research.md",
     "02-Research/YouTube-AI-Automation/Trending-History-Topics.md",
     "06-Sessions/2026-03-24.md",
@@ -198,7 +206,6 @@
     "02-Research/YouTube-AI-Automation/00-Niche-Comparison.md",
     "08-Templates/Research-Template.md",
     "06-Sessions/2026-03-23.md.tmp.20020.1774246063411",
-    "06-Sessions/_INDEX.md.tmp.20020.1774246034596",
     "06-Sessions/2026-03-23.md",
     "02-Research/YouTube-AI-Automation/11-Mesopotamia-Niche-Deep-Research.md",
     "01-Projects/YouTube-AI-Studio.md",

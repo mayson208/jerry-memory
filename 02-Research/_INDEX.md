@@ -36,6 +36,18 @@
 
 ---
 
+## Viral Shorts & TikTok Production Research
+
+*Deep dive on what makes short-form content go viral — patterns, specs, algorithms*
+*Researched 2026-03-24*
+
+| File | What's In It |
+|------|-------------|
+| [[viral_shorts_analysis\|Full Analysis]] | 13-section deep dive: hooks, scripts, captions, audio, color, length, algorithm signals, history content, platform differences |
+| [[viral_shorts_top10\|Top 10 Actionable Findings]] | Distilled action items with exact specs — ready to implement immediately |
+
+---
+
 ## Coming Soon
 
 *(Add new research files here as Claude researches more topics)*
