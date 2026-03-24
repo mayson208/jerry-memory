@@ -49,6 +49,12 @@
 | [[02-Research/YouTube-AI-Automation/Trending-History-Topics\|Trending History Topics]] | What's viral NOW on TikTok/Reddit/YouTube — active news hooks, trending formats |
 | [[02-Research/YouTube-AI-Automation/Competitor-Analysis\|Competitor Analysis (History)]] | Top ancient history channels — subs, views, best videos, gaps to exploit |
 
+### Gold Rush Deep Research (NEW — 2026-03-23)
+| File | What's In It |
+|------|-------------|
+| [[02-Research/YouTube-AI-Automation/Gold-Rush-Research\|Gold Rush Research]] | Comprehensive deep dive — California, Klondike, Australian, Brazilian, Black Hills gold rushes. Key facts, dates, death tolls, who got rich, shocking stats, ghost towns, mercury legacy. |
+| [[02-Research/YouTube-AI-Automation/Gold-Rush-Video-Ideas\|Gold Rush Video Ideas]] | 16 YouTube video ideas with clickbait-optimized titles, hooks, performance reasoning, key facts, and B-roll search terms. Includes production priority ranking. |
+
 ---
 
 ## Ideas & Future Plans
@@ -65,7 +71,7 @@
 
 | Date | What Happened |
 |------|--------------|
-| [[06-Sessions/2026-03-23\|2026-03-23]] | Mesopotamia + Indus Valley niche research · 16 PRs merged (Pull Shark gold) · Stop hook configured · Deep ancient history content research: 40+ video ideas, competitor analysis, trending topics saved |
+| [[06-Sessions/2026-03-23\|2026-03-23]] | Mesopotamia + Indus Valley niche research · 16 PRs merged (Pull Shark gold) · Stop hook configured · Deep ancient history content research: 40+ video ideas, competitor analysis, trending topics saved · Gold Rush deep research: California, Klondike, Australian, Brazilian, Black Hills — 16 YouTube video ideas with full hooks and B-roll terms |
 | [[06-Sessions/2026-03-22\|2026-03-22]] | Initial setup · JERRY scaffold · tools installed · vault created · Roblox niche research |
 
 ---
