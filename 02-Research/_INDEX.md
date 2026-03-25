@@ -1,6 +1,6 @@
 # Research Index
 
-> Everything Claude has researched lives here. Saved permanently — never lost.
+> Everything researched lives here. Saved permanently — never lost.
 
 ---
 
@@ -36,33 +36,48 @@
 
 ---
 
-## Viral Shorts & TikTok Production Research
+## Ancient History Content Strategy
 
-*Deep dive on what makes short-form content go viral — patterns, specs, algorithms*
-*Researched 2026-03-24*
+*Researched 2026-03-23*
 
 | File | What's In It |
 |------|-------------|
-| [[viral_shorts_analysis\|Full Analysis]] | 13-section deep dive: hooks, scripts, captions, audio, color, length, algorithm signals, history content, platform differences |
-| [[viral_shorts_top10\|Top 10 Actionable Findings]] | Distilled action items with exact specs — ready to implement immediately |
+| [[YouTube-AI-Automation/00-Niche-Comparison\|Niche Comparison]] | Full side-by-side table with revenue projections for all researched niches |
+| [[YouTube-AI-Automation/History-Video-Ideas\|History Video Ideas]] | 40+ video ideas ranked by potential — titles, hooks, why each works |
+| [[YouTube-AI-Automation/Trending-History-Topics\|Trending History Topics]] | What's viral NOW on TikTok/Reddit/YouTube — active news hooks, trending formats |
+| [[YouTube-AI-Automation/Competitor-Analysis\|Competitor Analysis (History)]] | Top ancient history channels — subs, views, best videos, gaps to exploit |
 
 ---
 
-## RelaxHistoryAI Channel Research
+## Gold Rush Deep Research
 
-*Deep dive on the RelaxHistoryAI channel and the AI history Shorts ecosystem*
-*Researched 2026-03-24*
+*Researched 2026-03-23*
 
 | File | What's In It |
 |------|-------------|
-| [[relax_history_ai_analysis\|RelaxHistoryAI Channel Analysis]] | Channel overview, confirmed video series, topic patterns, visual style, viewer reactions, comparable channels, production observations |
-| [[history_shorts_style_guide\|History Shorts Style Guide]] | Full practical style guide: script structure, narration, visuals, color grade, music, captions, topic selection, what separates quality from generic AI history content |
+| [[YouTube-AI-Automation/Gold-Rush-Research\|Gold Rush Research]] | California, Klondike, Australian, Brazilian, Black Hills gold rushes — facts, death tolls, who got rich, ghost towns, mercury legacy |
+| [[YouTube-AI-Automation/Gold-Rush-Video-Ideas\|Gold Rush Video Ideas]] | 16 YouTube video ideas with clickbait-optimized titles, hooks, key facts, B-roll search terms, priority ranking |
+
+---
+
+## Shorts Production Research
+
+*Researched 2026-03-24 — how to actually make viral short-form content*
+
+| File | What's In It |
+|------|-------------|
+| [[Shorts-Production/viral_shorts_analysis\|Viral Shorts Analysis]] | 13-section deep dive: hooks, scripts, captions, audio, color, length, algorithm signals, history content, platform differences |
+| [[Shorts-Production/viral_shorts_top10\|Top 10 Viral Shorts Findings]] | Distilled action items with exact specs — ready to implement immediately |
+| [[Shorts-Production/relax_history_ai_analysis\|RelaxHistoryAI Channel Analysis]] | Channel overview, video series, topic patterns, visual style, viewer reactions, comparable channels |
+| [[Shorts-Production/history_shorts_style_guide\|History Shorts Style Guide]] | Full practical style guide: script structure, narration, visuals, color grade, music, captions, topic selection |
+| [[Shorts-Production/ranking_shorts_research\|Ranking Shorts Research]] | Countdown/ranking format deep dive — virality mechanics, channels, topics, structure, thumbnails |
+| [[Shorts-Production/viewmax_io_research\|Viewmax.io Research]] | Competitor analysis — Sora 2-powered AI video tool, features, pricing, threat level to STUDIO |
 
 ---
 
 ## Coming Soon
 
-*(Add new research files here as Claude researches more topics)*
+*(Add new research files here as topics are researched)*
 
 - Ancient Egypt niche deep dive
 - Roman Empire niche deep dive

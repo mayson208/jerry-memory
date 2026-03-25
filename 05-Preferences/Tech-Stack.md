@@ -8,7 +8,7 @@
 
 ## AI
 - **Claude API (Anthropic)** — brain/reasoning for all AI projects
-- Always use the latest capable model (currently `claude-sonnet-4-6`)
+- Always use the latest capable model (currently `claude-sonnet-4-20250514`)
 
 ## Voice
 - **ElevenLabs** — TTS for JERRY and future projects

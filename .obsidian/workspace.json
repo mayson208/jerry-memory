@@ -11,14 +11,10 @@
             "id": "5e6be50e54591db4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Research/YouTube-AI-Automation/12-Indus-Valley-Niche-Deep-Research.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12-Indus-Valley-Niche-Deep-Research"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -183,41 +179,41 @@
   },
   "active": "5e6be50e54591db4",
   "lastOpenFiles": [
+    "07-Reference/API-Key-Locations.md.tmp.3944.1774479468157",
+    "00-HOME.md.tmp.3944.1774479449586",
+    "02-Research/_INDEX.md.tmp.3944.1774479414931",
+    "06-Sessions/2026-03-25.md.tmp.3944.1774479368565",
+    "06-Sessions/2026-03-24.md.tmp.3944.1774479354542",
+    "07-Reference/CodingNomads/spring_boot_sections9_10.md",
+    "02-Research/Shorts-Production/viewmax_io_research.md",
+    "02-Research/Shorts-Production/ranking_shorts_research.md",
+    "02-Research/Shorts-Production/history_shorts_style_guide.md",
+    "02-Research/Shorts-Production/relax_history_ai_analysis.md",
+    "02-Research/Shorts-Production/viral_shorts_top10.md",
+    "02-Research/Shorts-Production/viral_shorts_analysis.md",
+    "07-Reference/CodingNomads",
+    "06-Sessions/_Archive",
+    "02-Research/Shorts-Production",
     "07-Reference/codingnomads_spring_boot_sections9_10.md",
+    "02-Research/YouTube-AI-Automation/12-Indus-Valley-Niche-Deep-Research.md",
     "07-Reference/codingnomads_spring_boot_sections9_10.md.tmp.3944.1774475790712",
     "02-Research/YouTube-AI-Automation/History-Video-Ideas.md",
     "02-Research/viewmax_io_research.md.tmp.16708.1774406942597",
     "02-Research/ranking_shorts_research.md",
     "02-Research/viewmax_io_research.md",
     "02-Research/viewmax_io_research.md.tmp.16708.1774377511392",
-    "02-Research/_INDEX.md.tmp.16708.1774372704306",
     "02-Research/history_shorts_style_guide.md",
-    "02-Research/history_shorts_style_guide.md.tmp.16708.1774372692638",
     "02-Research/relax_history_ai_analysis.md",
     "02-Research/viral_shorts_top10.md",
     "02-Research/viral_shorts_analysis.md",
-    "02-Research/_INDEX.md.tmp.18816.1774336660521",
-    "02-Research/viral_shorts_analysis.md.tmp.18816.1774336599563",
     "02-Research/YouTube-AI-Automation/Gold-Rush-Research.md",
     "02-Research/YouTube-AI-Automation/Trending-History-Topics.md",
     "06-Sessions/2026-03-24.md",
-    "00-HOME.md.tmp.18816.1774311619498",
-    "00-HOME.md.tmp.18816.1774311614659",
     "02-Research/YouTube-AI-Automation/Gold-Rush-Video-Ideas.md",
-    "00-HOME.md.tmp.18816.1774310331345",
     "02-Research/YouTube-AI-Automation/Competitor-Analysis.md",
-    "02-Research/YouTube-AI-Automation/12-Indus-Valley-Niche-Deep-Research.md",
     "02-Research/YouTube-AI-Automation/02-Niche-Research.md",
     "02-Research/YouTube-AI-Automation/00-Niche-Comparison.md",
     "08-Templates/Research-Template.md",
-    "06-Sessions/2026-03-23.md",
-    "02-Research/YouTube-AI-Automation/11-Mesopotamia-Niche-Deep-Research.md",
-    "01-Projects/YouTube-AI-Studio.md",
-    "02-Research/YouTube-AI-Automation/10-Roblox-Niche-Deep-Research.md",
-    "02-Research/YouTube-AI-Automation/09-STUDIO-App-Research.md",
-    "02-Research/YouTube-AI-Automation/08-Competition-Analysis.md",
-    "02-Research/YouTube-AI-Automation/07-Case-Studies.md",
-    "02-Research/YouTube-AI-Automation/06-Legal-and-Policy.md",
-    "02-Research/YouTube-AI-Automation/05-SEO-and-Growth.md"
+    "06-Sessions/2026-03-23.md"
   ]
 }
