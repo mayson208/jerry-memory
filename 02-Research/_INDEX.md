@@ -75,6 +75,32 @@
 
 ---
 
+## Memecoin Trading — Axiom / Solana
+
+*Researched 2026-03-27 — comprehensive deep dive, 16 notes*
+
+| File | What's In It |
+|------|-------------|
+| [[Memecoin-Trading/00-INDEX\|00 · Master Index]] | Hub note with all links, the core formula, critical numbers |
+| [[Memecoin-Trading/01-Axiom-Platform\|01 · Axiom Platform]] | Pulse, Trackers, Vision, Sniper settings, Copy Trading, fees |
+| [[Memecoin-Trading/02-Finding-Coins-Early\|02 · Finding Coins Early]] | 5-step workflow, timing windows, sources to monitor |
+| [[Memecoin-Trading/03-On-Chain-Metrics\|03 · On-Chain Metrics]] | Hard limits: holders, dev %, bundle %, sniper %, liquidity |
+| [[Memecoin-Trading/04-Pumpfun-Bonding-Curve\|04 · Pump.fun & Bonding Curve]] | How the curve works, graduation, PumpSwap, best entry points |
+| [[Memecoin-Trading/05-Rug-Detection\|05 · Rug Detection]] | Red flags, honeypots, fake volume, 30-sec safety check |
+| [[Memecoin-Trading/06-Tool-Stack\|06 · Tool Stack]] | Every tool with what it's best for and fee |
+| [[Memecoin-Trading/07-Alpha-Sources\|07 · Alpha Sources]] | Twitter, Telegram groups, on-chain signals, signal vs noise |
+| [[Memecoin-Trading/08-Winning-Patterns\|08 · Winning Patterns]] | What 10x–100x coins have in common |
+| [[Memecoin-Trading/09-Tokenomics\|09 · Tokenomics]] | Good vs bad tokenomics, LP locked vs burned |
+| [[Memecoin-Trading/10-Risk-Management\|10 · Risk Management]] | Position sizing, TP ladder, stop-loss, the 2x rule |
+| [[Memecoin-Trading/11-Solana-Mechanics\|11 · Solana Mechanics]] | Gas, slippage, MEV protection, priority fees by situation |
+| [[Memecoin-Trading/12-Narratives-Meta\|12 · Narratives & Meta]] | Hot themes, lifecycle stages, how to spot early |
+| [[Memecoin-Trading/13-Copy-Trading\|13 · Copy Trading]] | Finding wallets, evaluation criteria, Axiom execution |
+| [[Memecoin-Trading/14-KOL-Calls\|14 · KOL Calls]] | How to use without getting rugged, legit vs predatory |
+| [[Memecoin-Trading/15-Timing-The-Market\|15 · Timing the Market]] | Best hours (3PM–7PM EST), days, momentum signals |
+| [[Memecoin-Trading/16-Cheat-Sheet\|16 · Cheat Sheet ⭐]] | Everything at a glance — start here every session |
+
+---
+
 ## Coming Soon
 
 *(Add new research files here as topics are researched)*
