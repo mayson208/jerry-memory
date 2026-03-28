@@ -29,6 +29,7 @@ created: 2026-03-27
 | [[14-KOL-Calls]] | How they work, how to use without getting rugged |
 | [[15-Timing-The-Market]] | Best hours, days, momentum signals |
 | [[16-Cheat-Sheet]] | Quick reference — everything at a glance |
+| [[17-Market-Moving-Accounts]] | X accounts that move the market — who to follow, shill risk ratings, X links |
 
 ---
 
