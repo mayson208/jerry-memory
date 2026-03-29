@@ -98,6 +98,7 @@
 | [[Memecoin-Trading/14-KOL-Calls\|14 · KOL Calls]] | How to use without getting rugged, legit vs predatory |
 | [[Memecoin-Trading/15-Timing-The-Market\|15 · Timing the Market]] | Best hours (3PM–7PM EST), days, momentum signals |
 | [[Memecoin-Trading/16-Cheat-Sheet\|16 · Cheat Sheet ⭐]] | Everything at a glance — start here every session |
+| [[Memecoin-Trading/19-Bundled-Launch-Strategy\|19 · Bundled Launch Strategy]] | Insider multi-wallet bundling — detection tools, ride FOMO vs wait for dump strategies |
 
 ---
 

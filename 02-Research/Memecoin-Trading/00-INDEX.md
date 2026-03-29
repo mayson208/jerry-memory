@@ -31,6 +31,7 @@ created: 2026-03-27
 | [[16-Cheat-Sheet]] | Quick reference — everything at a glance |
 | [[17-Market-Moving-Accounts]] | X accounts that move the market — who to follow, shill risk ratings, X links |
 | [[18-Video-Notes-VPw5ad-791E]] | Alex Choi — Ultimate Beginner's Guide to Investing in Crypto 2026 (video notes) |
+| [[19-Bundled-Launch-Strategy]] | How insider multi-wallet bundling works, detection tools, two counter-strategies |
 
 ---
 
